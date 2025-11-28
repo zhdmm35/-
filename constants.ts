@@ -1,7 +1,7 @@
 import { Education, Experience, Project, Skill } from "./types";
 
 export const PERSONAL_INFO = {
-  name: "张慧耀",
+  name: "张汇",
   role: "Java 后端开发工程师",
   email: "huiyaozhang@gmail.com",
   phone: "15718191152",
